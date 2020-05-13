@@ -1,0 +1,7 @@
+1.D   2.D   3.B    4.B  5.A
+6.A   7.A   8.C   9.D    10.A
+11.AB  12.A   13.A  14.D    15.D
+二
+1.ArrayList内部是动态数组结构，LinkedList是链表数据结构，arrayList优点是查询效率高，LinkedList则是插入数据效率高
+
+https://blog.csdn.net/ThinkWon/article/details/104390612?depth_1-utm_source=distribute.pc_category.none-task&request_id=&utm_source=distribute.pc_category.none-task
